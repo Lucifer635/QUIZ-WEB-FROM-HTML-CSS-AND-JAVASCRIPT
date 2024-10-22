@@ -1,0 +1,45 @@
+1.Apa tag HTML yang digunakan untuk membuat paragraf?
+
+"A. p",
+"B. paragraph",
+"C. text",
+"D. img"
+
+Jawaban: A) p
+
+2.Apa properti CSS yang digunakan untuk mengubah ukuran font?
+
+
+
+Jawaban: A) font-size
+
+3.Apa kepanjangan dari HTML?
+
+"A. Hypertext Markup Language",
+"B. Hightext Markup Language",
+"C. Hyperlink and Text Markup Language",
+"D. Hypertext Multi Language"
+
+Jawaban: A) Hypertext Markup Language
+
+
+
+
+4.Apa tag yang digunakan untuk membuat judul utama dalam HTML?
+
+"A. h1",
+"B. title",
+"C. head",
+"D. header"
+
+Jawaban: A) h1
+
+
+5.Apa nilai dari properti color yang digunakan untuk mengubah teks menjadi merah?
+
+"A. red",
+"B. #ff0000",
+"C. rgb(255, 0, 0)",
+"D. Semua jawaban benar"
+
+Jawaban: D) Semua jawaban benar
